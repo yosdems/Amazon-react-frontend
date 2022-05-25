@@ -1,1 +1,1 @@
-# Apple-react-frontend
+# Amazon-frontend-only
